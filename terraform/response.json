@@ -1,0 +1,1 @@
+{"status": "completed", "results": {"flights": {"status": "success", "records": 100}, "airports": {"status": "success", "records": 100}, "airlines": {"status": "success", "records": 100}, "aircraft_types": {"status": "success", "records": 100}, "cities": {"status": "success", "records": 100}, "countries": {"status": "success", "records": 100}}}

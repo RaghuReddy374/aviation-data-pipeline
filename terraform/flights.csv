@@ -1,0 +1,100 @@
+flight_iata,flight_date,airline_iata,airline_name,departure_iata,arrival_iata,flight_status,aircraft_icao24
+XM358,2026-09-02,XM,Zimex Aviation,BHX,DUB,scheduled,4B008B
+OD1007,2026-09-02,OD,Batik Air Malaysia,BKI,KUL,scheduled,
+EK3446,2026-09-02,EK,Emirates,BKI,KUL,scheduled,
+EY5601,2026-09-02,EY,Etihad Airways,BKI,KUL,scheduled,
+AK6351,2026-09-02,AK,AirAsia,BKI,KCH,scheduled,7502B8
+AK1510,2026-09-02,AK,AirAsia,BKI,TPE,scheduled,75047C
+JL3722,2026-09-02,JL,Japan Airlines,ASJ,KOJ,scheduled,
+CI9900,2026-09-02,CI,China Airlines,ASJ,KOJ,scheduled,
+FZ732,2026-09-02,FZ,flydubai,ASB,DXB,scheduled,
+EK2483,2026-09-02,EK,Emirates,ASB,DXB,scheduled,
+QF5603,2026-09-02,QF,Qantas,SYD,AVV,scheduled,
+EK7578,2026-09-02,EK,Emirates,SYD,AVV,scheduled,
+IB7928,2026-09-02,IB,Iberia,SAW,AYT,scheduled,4BC8CD
+XY5328,2026-09-02,XY,flynas,SAW,AYT,scheduled,4BC8CD
+AZ6042,2026-09-02,AZ,Alitalia,SAW,AYT,scheduled,4BC8CD
+3S565,2026-09-02,3S,DHL Air,PVG,LEJ,scheduled,3C4591
+NF321,2026-09-02,NF,Air Vanuatu,NUS,VLI,scheduled,
+E4238,2026-09-02,E4,Enter Air,KTW,TLV,scheduled,48922B
+E44777,2026-09-02,E4,Enter Air,KTW,AYT,scheduled,4892C7
+E41353,2026-09-02,E4,Enter Air,KTW,AYT,scheduled,4892C6
+AS7461,2026-09-02,AS,AlphaSky,HND,HIJ,scheduled,
+QR6025,2026-09-02,QR,Qatar Airways,HND,HIJ,scheduled,
+NH3811,2026-09-02,NH,All Nippon Airways,HND,UBJ,scheduled,
+CI8363,2026-09-02,CI,China Airlines,HND,OKA,scheduled,
+W24431,2026-09-02,W2,Flexflight,HAN,UIH,scheduled,
+A12431,2026-09-02,A1,vietjet air,HAN,UIH,scheduled,
+OU8701,2026-09-02,OU,Croatia Airlines,GRO,ZAG,scheduled,501C4A
+EK2359,2026-09-02,EK,Emirates,DXB,KBV,scheduled,896569
+EK2262,2026-09-02,EK,Emirates,DXB,KTM,scheduled,
+EK2298,2026-09-02,EK,Emirates,DXB,CGP,scheduled,
+EK2030,2026-09-02,EK,Emirates,DXB,CMB,scheduled,
+AC7554,2026-09-02,AC,Air Canada,DXB,CMB,scheduled,
+EK2480,2026-09-02,EK,Emirates,DXB,DMK,scheduled,89656C
+EK2052,2026-09-02,EK,Emirates,DXB,ZNZ,scheduled,
+DL8293,2026-09-02,DL,Delta Air Lines,DEL,CDG,scheduled,3949ED
+BR3706,2026-09-02,BR,EVA Air,DEL,BKK,scheduled,80141D
+CZ4963,2026-09-02,CZ,China Southern Airlines,CKG,FOC,scheduled,
+CZ2347,2026-09-02,CZ,China Southern Airlines,CKG,DLU,scheduled,
+DL5928,2026-09-02,DL,Delta Air Lines,BOM,LHR,scheduled,
+VS8587,2026-09-02,VS,Virgin Atlantic,BOM,MAA,scheduled,80175F
+KL3686,2026-09-02,KL,KLM,BOM,MAA,scheduled,80175F
+BA7991,2026-09-02,BA,British Airways,BOM,MAA,scheduled,80175F
+AF3326,2026-09-02,AF,Air France,BOM,MAA,scheduled,80175F
+VS8473,2026-09-02,VS,Virgin Atlantic,BOM,AMD,scheduled,801729
+KL4529,2026-09-02,KL,KLM,BOM,AMD,scheduled,801729
+BA7046,2026-09-02,BA,British Airways,BOM,AMD,scheduled,801729
+AF6076,2026-09-02,AF,Air France,BOM,AMD,scheduled,801729
+AI7551,2026-09-02,AI,Air India,BOM,ADD,scheduled,
+AA8161,2026-09-02,AA,American Airlines,BKK,DOH,scheduled,06A102
+WB1427,2026-09-02,WB,RwandAir,BKK,DOH,scheduled,06A102
+JU8311,2026-09-02,JU,AirSERBIA,BKK,DOH,scheduled,06A102
+CA8870,2026-09-02,CA,Air China,BKK,TAO,scheduled,
+TP6351,2026-09-02,TP,TAP Air Portugal,BKK,DXB,scheduled,89617F
+QF8377,2026-09-02,QF,Qantas,BKK,DXB,scheduled,89617F
+BT5814,2026-09-02,BT,airBaltic,BKK,DXB,scheduled,89617F
+QF7327,2026-09-02,QF,Qantas,MEL,ADL,scheduled,7C66E4
+QF7329,2026-09-02,QF,Qantas,ADL,MEL,scheduled,7C66E4
+W9,2026-09-02,W9,Wizz Air,TIA,LTN,scheduled,40805D
+WS6030,2026-09-02,WS,WestJet,SIN,ICN,active,71C217
+DL7822,2026-09-02,DL,Delta Air Lines,SIN,ICN,active,71C217
+NH6270,2026-09-02,NH,All Nippon Airways,SIN,FUK,active,
+AI8156,2026-09-02,AI,Air India,SIN,FUK,active,
+NH6268,2026-09-02,NH,All Nippon Airways,SIN,NGO,active,
+AI8216,2026-09-02,AI,Air India,SIN,NGO,active,
+SQ8562,2026-09-02,SQ,Singapore Airlines,SIN,ATH,active,76BCCC
+VA5746,2026-09-02,VA,Virgin Australia,SIN,PVG,active,
+CA5287,2026-09-02,CA,Air China,SIN,PVG,active,
+SA7231,2026-09-02,SA,South African Airways,SIN,JNB,active,76CDA2
+OZ6792,2026-09-02,OZ,Asiana Airlines,SIN,JNB,active,76CDA2
+NZ3278,2026-09-02,NZ,Air New Zealand,SIN,JNB,active,76CDA2
+NH6274,2026-09-02,NH,All Nippon Airways,SIN,JNB,active,76CDA2
+MH5764,2026-09-02,MH,Malaysia Airlines,SIN,JNB,active,76CDA2
+CA8864,2026-09-02,CA,Air China,SIN,TNA,active,
+VA5780,2026-09-02,VA,Virgin Australia,SIN,PEK,active,
+CA5286,2026-09-02,CA,Air China,SIN,PEK,active,
+TP8400,2026-09-02,TP,TAP Air Portugal,SIN,LHR,active,76CD45
+SK8036,2026-09-02,SK,SAS,SIN,LHR,active,76CD45
+NZ3306,2026-09-02,NZ,Air New Zealand,SIN,LHR,active,76CD45
+MH5754,2026-09-02,MH,Malaysia Airlines,SIN,LHR,active,76CD45
+FJ5949,2026-09-02,FJ,Fiji Airways,SIN,LHR,active,76CD45
+AC5876,2026-09-02,AC,Air Canada,SIN,LHR,active,76CD45
+QF4092,2026-09-02,QF,Qantas,SIN,PVG,active,780851
+GA9027,2026-09-02,GA,Garuda Indonesia,SIN,PVG,active,780851
+KL4311,2026-09-02,KL,KLM,PNQ,DEL,scheduled,80146F
+AI9811,2026-09-02,AI,Air India,PNQ,BLR,scheduled,801686
+DK4568,2026-09-02,DK,Sunclass Airlines,OSL,CPH,scheduled,45D965
+OI475,2026-09-02,OI,Hinterland Aviation,CNC,MYI,scheduled,7C3F3D
+OI511,2026-09-02,OI,Hinterland Aviation,CNC,MYI,scheduled,
+OI475,2026-09-02,OI,Hinterland Aviation,MYI,CNC,scheduled,7C3F3D
+OI512,2026-09-02,OI,Hinterland Aviation,MYI,CNC,scheduled,
+QR7195,2026-09-02,QR,Qatar Airways,MEL,PER,scheduled,7C7A49
+MK8973,2026-09-02,MK,Air Mauritius,MEL,PER,scheduled,7C7A49
+6E4408,2026-09-02,6E,IndiGo,MEL,OOL,scheduled,7C6C9A
+UA7397,2026-09-02,UA,United Airlines,MEL,SYD,scheduled,7C7AB2
+IZ161,2026-09-02,IZ,Bul Air,TLV,LCA,scheduled,451E8E
+D7379,2026-09-02,D7,AirAsia,TPE,KUL,active,750525
+CW514,2026-09-02,CW,Air Marshall Islands,KWA,MAJ,scheduled,
+CW8511,2026-09-02,CW,Air Marshall Islands,KWA,WTO,scheduled,
+CW511,2026-09-02,CW,Air Marshall Islands,KWA,EAL,scheduled,

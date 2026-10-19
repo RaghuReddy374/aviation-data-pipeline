@@ -1,7 +1,7 @@
 # Copy to terraform.tfvars and fill in. Do not commit terraform.tfvars.
 
-aws_region             = "us-east-1"
-aviationstack_api_key  = "REPLACE_WITH_YOUR_AVIATIONSTACK_KEY"
+aws_region             = "ap-south-2"
+aviationstack_api_key  = "602557260a113393eeeb6c13deb4889a"
 alarm_notification_email = "you@example.com"
 
 # Defaults in variables.tf (flights every 12h, reference monthly, 1 page
